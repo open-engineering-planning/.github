@@ -54,27 +54,27 @@ Planning artifacts become structured Open Engineering Elements that can be conne
 
 Open Engineering Planning follows several core principles.
 
-Plan before build
+### Plan before build
 
 Understand the problem before implementing the solution.
 
-Resolve uncertainty
+### Resolve uncertainty
 
 Unknowns become investigations rather than assumptions.
 
-Decisions require evidence
+### Decisions require evidence
 
 Every significant decision should be supported by observations, experiments, or analysis.
 
-Everything connects
+### Everything connects
 
 Planning artifacts form a semantic graph instead of isolated documents.
 
-AI-native
+### AI-native
 
 Planning is designed to be performed collaboratively by engineers and AI assistants.
 
-Git is the source of truth
+### Git is the source of truth
 
 Plans evolve through pull requests, reviews, and version history.
 
